@@ -3,7 +3,7 @@
 Controlling the Air Conditioner using iPad and Hand Gestures in Real-Time - AIoT - Jetson Nano 
 ------------------------------------------------------------------------------------------------
 
-## [Demo](https://www.youtube.com/watch?v=lcIxm7Vb4Gs)
+## [Demo Video](https://www.youtube.com/watch?v=lcIxm7Vb4Gs)
 
 ### System diagram
 
