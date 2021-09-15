@@ -1,4 +1,4 @@
-# AIoT
+# AIoT - Proof of concept
 
 Controlling the Air Conditioner using iPad and Hand Gestures in Real-Time - AIoT - Jetson Nano 
 ------------------------------------------------------------------------------------------------
