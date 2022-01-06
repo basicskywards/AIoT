@@ -30,7 +30,7 @@ Controlling the Air Conditioner using iPad and Hand Gestures in Real-Time - AIoT
 * 1x Ipad or 1x Smartphone
 * 1x Logitech camera
 
-## IoT Softwares
+## IoT Software
 * IoTtalk 
 
 ### Acknowledgements
